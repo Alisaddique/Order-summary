@@ -100,5 +100,6 @@ a:hover{
 
 
 @media (max-width:375px) {
-    
+    .contianer{
+        width: 90%;
 }
